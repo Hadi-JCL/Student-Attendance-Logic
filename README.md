@@ -91,20 +91,7 @@ Enter and Exit are prevented from being active simultaneously.
 - Quartus simulation
 - Breadboard implementation
 
-## Repository Structure
 
-```text
-logic-design-class-capacity-counter/
-├── README.md
-├── documentation/
-│   └── Logic_Project.docx
-├── quartus/
-│   └── [Quartus project files]
-├── schematics/
-│   └── [Circuit schematics]
-└── simulations/
-    └── [Simulation files / waveforms]
-```
 
 ## Authors
 
@@ -117,6 +104,4 @@ logic-design-class-capacity-counter/
 
 Lebanese American University (LAU)
 
-## Future Updates
 
-The Quartus project files, schematics, and simulation files can be added to the corresponding folders when available.
